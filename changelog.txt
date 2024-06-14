@@ -1,0 +1,10 @@
+1.0.2_literally-one-patch
+- Fixed Clyde remembering users outside of DMs.
+
+1.0.1_global-release
+- Added functionality in DMs
+- Removed a text formatting bug.
+
+1.0_global-release
+- Bot is now fully functional and behaves like Clyde!
+- Gemini model switched from pro to flash.
