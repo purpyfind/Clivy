@@ -1,3 +1,13 @@
+1.0.4_more-clydelike
+- Tuned his initial prompt.
+
+1.0.3.1
+- fixed him going crazy
+
+1.0.3
+- Added an update notifier.
+- Tuned Clivy to sound more like Clyde.
+
 1.0.2_literally-one-patch
 - Fixed Clyde remembering users outside of DMs.
 
