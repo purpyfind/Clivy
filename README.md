@@ -1,13 +1,13 @@
-# ReClyde
+# Clivy // Reclyde
 
-ReClyde is a fanmade project dedicated to recreating the original Clyde AI chatbot by Discord! This bot may not be accurate all the time and can break randomly.
-This bot is currently a friend project and is not public.
+A Discord bot and revival of Discord's Clyde AI, with more features.
+This bot is currently a friend testing project and is not going public anytime soon.
 
-# TODO
-Rewrite the bot completely with better code.
+# How it works
+This bot utilizes Gemini (Model: 1.5 Flash), which is an AI chatbot created by Google. It uses system instructions to tweak the bot to act like Clyde: the initial prompt is from Clyde itself, but may not be accurate.
 
 # Credits
-This bot utilizes Google's Generative AI, specifically Gemini. All rights go to Google, initial prompt was discovered on GitHub by divoltlt, and also by the Clyde Thoughts embed inside of Discord.
+Clivy uses the [Google AI Python SDK](https://github.com/google-gemini/generative-ai-python), and therefore is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-Made with love by purpyfind.
+Made by purpyfind.
 
